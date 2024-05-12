@@ -1,0 +1,15 @@
+{
+  "name": "media",
+  "version": "1.0.0",
+  "description": "building media web app from scratch using MERN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "javascript"
+  ],
+  "author": "manish",
+  "license": "ISC"
+}
